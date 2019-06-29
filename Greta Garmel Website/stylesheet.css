@@ -1,0 +1,65 @@
+
+.header{
+	display: inline;
+}
+
+.logo{
+	max-width: 280px;
+	max-height: 280px;
+	margin-left: 50px;
+	margin-top: 50px;
+	border-color: red;
+	display: inline;
+}
+
+.email{
+	color: #624a98;
+	font-family: times;
+	font-weight: bold;
+	font-size: 17px;
+	margin-left: 200px;
+	margin-right: 100px;
+	margin-top: 50px;
+	float: right;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.menu{
+	margin-left: 50px;
+	float: left;
+}
+
+a {
+	
+}
+
+.menuitem{
+
+	font-family: times;
+	text-decoration: none;
+	color: #c43541;
+	font-weight: bold;
+	font-size: 26px;
+
+}
+
+.clothingleft1{
+	max-height: 700px;
+	max-width: 700px;
+	float: left;
+}
+
+.clothingleft{
+	max-height: 700px;
+	max-width: 700px;
+	margin-left: 170px;
+}
+
+.clothingright{
+	max-height: 700px;
+	max-width: 700px;
+	margin-left: 750px;
+}
